@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sat, 07 Mar 2015 14:05:04 GMT
+Set-Cookie: skinny_session=noxyrhi5zp1k1e8eocy26ty29;Path=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+Content-Length: 1462
+Server: Jetty(9.2.1.v20140609)
+
